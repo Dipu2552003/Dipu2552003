@@ -25,6 +25,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+[![An image of @dipu2552003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipu2552003)](https://holopin.io/@dipu2552003)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Dipu2552003&icon=0&color=0)](https://visitcount.itsvg.in)
 
