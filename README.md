@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: Building innovative tech projects that use AI, web development.
+
+👯 I’m looking to collaborate on: Exciting projects that bring social impact or involve emerging technologies.
+
+🤝 I’m looking for help with: Improving scalability, security, and integrating advanced AI capabilities.
+
+🌱 I’m currently learning: Advanced applications of AI, cloud technologies, and development tools to enhance my projects.
+
+💬 Ask me about: Tech development, AI/ML, and creative tech solutions.
 
 
 ## 🌐 Socials:
@@ -15,7 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dipu2552003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## GSSOC(24) Badges 🪶
+## (24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="[https://gssoc.girlscript.tech/leaderboard](https://gssoc.girlscript.tech/leaderboard)">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
